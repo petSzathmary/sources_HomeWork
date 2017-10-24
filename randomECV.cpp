@@ -1,3 +1,6 @@
+/*
+	Author: Peter Szathmary
+*/
 #include<iostream>
 #include<random>
 #include<ctime>
